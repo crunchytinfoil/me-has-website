@@ -8,11 +8,7 @@
   }
   body {
     text-align: center;
+    font-family: 'JetBrains Mono';
+    background: rgb(99, 164, 218);
+    color: rgb(219, 219, 219);
   }
-  }body {
-    text-align: center;
-    font-family: 'Arial';
-    background: rgb(79, 171, 224);
-    color: rgb(123, 157, 219);
-  }
-  
